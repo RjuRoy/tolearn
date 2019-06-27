@@ -6,11 +6,17 @@ L = 506.65
 C = *510.60
 On daily chart basis it may take support on its 100EMA which is on 506.60
 
+Initially it may try to take support on its 10Day EMA which is 509.50. (hourly chart basis)
+On hourly chart it is looking week so it may fall till 505-506.
+If it falls below 
+
 LIC housing Finance
 O = 559.35
 H = 568.85
 L = 556.50
 C = *562.90
+
+On hourly chart it is falling so it may fall till 557 or if it falls below 556 it may take a southern ride to 549.95 or beyond
 
 *closing prices need to be updated
 
