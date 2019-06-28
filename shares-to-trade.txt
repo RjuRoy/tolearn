@@ -1,4 +1,4 @@
-Share for monday - 1st July 2019
+Share for friday - 28th June 2019
 Tata Steel
 O = 511
 H = 516.45
@@ -19,7 +19,31 @@ C = *562.90
 On hourly chart it is falling so it may fall till 557 or if it falls below 556 it may take a southern ride to 549.95 or beyond
 
 *closing prices need to be updated
+---------------------------------------------------------------------------------------------
 
+Share for friday - 1st July, 2019
+Tata Steel
+-----------
+O = 511.50
+H = 515.65
+L = 499.10
+C = *504.40
+
+On hourly chart it has created a bullish engulfing pattern so chances are that it will open higher on monday(1st July). 
+If it gap opens on monday it may move towards 515.
+If it starts to fall on monday then it will take support on its 50day ema which is 499.83
+
+LIC Housing Finance
+--------------------
+Pr. Close - 564.95
+O = 565.75
+H = 567.95
+L = 553.45
+C = *555.25
+
+On hourly chart it is below its 10Day EMA. 
+On monday it has a probability to go higher from its current price but before doing so there is a possibility that it will try to to touch its todays low - 553.45 (28/06). 
+If it falls below todays low then it may take support on it 50day EMA.
 
 
 
