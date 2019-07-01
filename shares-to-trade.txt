@@ -21,7 +21,7 @@ On hourly chart it is falling so it may fall till 557 or if it falls below 556 i
 *closing prices need to be updated
 ---------------------------------------------------------------------------------------------
 
-Share for friday - 1st July, 2019
+Share for Monday - 1st July, 2019
 Tata Steel
 -----------
 O = 511.50
@@ -44,6 +44,29 @@ C = *555.25
 On hourly chart it is below its 10Day EMA. 
 On monday it has a probability to go higher from its current price but before doing so there is a possibility that it will try to to touch its todays low - 553.45 (28/06). 
 If it falls below todays low then it may take support on it 50day EMA.
+On daily chart basis it may take support on its 10day ema, which is 550.33 
+---------------------------------------------------------------
+---------------------------------------------------------------
+For 2nd July 2019
+LIC Housing Finance - Bullish for tomorrow
+-------------------
+Pr. Close - 555.25
+O = 560.00
+H = 566.85
+L = 556.20
+C = 565.25
+
+On hourly chart basis tomorrow it may fall towards 562 and if breaks 562 then it may fall to todays low which is 556 on other side if it able to break 567 level the it will try to breach 569 levels
+
+Tata Steel - Bearish for tomorrow
+-----------
+Pr. Close - 504.40
+O = 509.85
+H = 514.85
+L = 503.15
+C = 506.95
+
+On hourly chart it is touching its 10day EMA, if it able to holds above todays low which is 503.34 it may move up and try to touch 510-514 levels and on the other side if it breaches 503 level it may find its support on its 50 day EMA which is 501.48.
 
 
 
