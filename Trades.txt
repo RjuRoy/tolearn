@@ -41,5 +41,19 @@ Profit - 117
 	--always follow this rule don't place order before 9:30
 ------------------------------------------------------------
 ------------------------------------------------------------
+Date - 2nd July, 2019 (Monday)
+Trade taken - LIC Housing finance (20 Shares) B
+In time - 10:15:23 - 567.3
+Out time - 10:39:32 - 566.05
+Loss - 25
+Today I traded with a very thin position size b'se when I was trading, market was highly volatile
+
+--What you did right today?
+	--Traded with very thin position size b'se of volatility.
+	--At the time of placing order my stop loss was 3 ticks away from my purchasing price but soon I realized that my trade may go against me so I modified my stop loss to 1 tick away.
+
+--How you can improve more?
+	--Don't ever thing that you know everything, always be a learner.
+	--Try to learn something everyday.
 
 

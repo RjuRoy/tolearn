@@ -1,3 +1,7 @@
+Notes:
+If market is choppy and going nowhere its better not to take any trade as we don't know in which direction market is moving
+
+========================================
 Share for friday - 28th June 2019
 Tata Steel
 O = 511
@@ -67,6 +71,31 @@ L = 503.15
 C = 506.95
 
 On hourly chart it is touching its 10day EMA, if it able to holds above todays low which is 503.34 it may move up and try to touch 510-514 levels and on the other side if it breaches 503 level it may find its support on its 50 day EMA which is 501.48.
+--------------------------------------------------------------
+--------------------------------------------------------------
+For 3nd July 2019
+LIC Housing Finance - Neutral for tomorrow
+-------------------
+Pr. Close - 565.25
+O = 567.95
+H = 573.10
+L = 561.25
+C = 568.35
+On daily chart it has created a doji which simply means indecisiveness, tomorrow it can go either way, if it moves above 573.10 then it will try to touch 584 and if closes below 561 then there will be more pain in coming days for this share
+
+-----------------------------------------------------------
+Tata steel - Neutral for tomorrow
+----------- 
+Pr. Close - 506.95
+O = 508.55
+H = 510.90
+L = 502.10
+C = 508.80
+
+On hourly chart it is consolidating with some defined range, if it can break 510 levels then it will move up or if it breaks below 502 then it will go for a southern ride.
+
+
+
 
 
 
