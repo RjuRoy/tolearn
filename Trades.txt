@@ -56,4 +56,37 @@ Today I traded with a very thin position size b'se when I was trading, market wa
 	--Don't ever thing that you know everything, always be a learner.
 	--Try to learn something everyday.
 
+---------------------------------------------------------------
+---------------------------------------------------------------
+Date - 3rd July, 2019 (Monday)
+Trade taken - LIC Housing finance (45 Shares) B
+In time - 09:32:07 - 568.4
+Out time - 09:39:39 - 570.4
+Profit - 90
+Today also market was very volatile.
+
+--What you did right today?
+	--Traded with a tight stop loss.
+	--Traded with 45 shares today because the maximum loss which may I had taken in case my trade goes against me was 60.
+
+--Note
+	--Always be self disciplined and no matter what always follow your rules which you have created. 
+
+-----
+Trade taken - Tata Steel (20 Shares) B
+In time - 13:37:07 - 513.6
+Out time - 13:45:32 - 512.25
+Loss - 27
+
+--What you did right today?
+	--Traded with a tight stop loss.
+	--Traded with a very thin position size as market was very volatile at the time of trading.
+
+--What mistake you made today?
+	--Traded without watching the Nifty Metal
+
+
+
+
+
 
