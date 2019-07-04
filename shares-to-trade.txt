@@ -138,6 +138,18 @@ If it closes below 561 on houly chart then it will slide further.
 on 5 minute chart its support is placed on 567
 on hourly chart its support is placed on 567
 on 15 minute chart its support is placed on 566.
+------------
+
+Tata Steel 
+------------
+Pr. Close - 510.30
+O = 500
+H = 502.65
+L = 503.75
+C = 495.50
+
+on 15 minutes chart if it trades below 497 then it will slide further, don't place any buy order untill it is crossing 10day EMA.
+Dont place any order before 9:45
 
 
 
