@@ -84,6 +84,66 @@ Loss - 27
 
 --What mistake you made today?
 	--Traded without watching the Nifty Metal
+=============================================================
+Date - 4th July, 2019 (Monday)
+Trade taken - Tata  (100 Shares) B
+In time - 09:27:51 - 500.8
+Out time - 09:46:24 - 498.5
+
+Loss - 230
+
+Trade taken - Tata  (100 Shares) B
+In time - 10:07:50 - 499
+Out time - 10:09:59 - 497
+
+Loss - 200
+
+Total loss - 430
+
+--What mistake you made today?
+	--Indisciplined way of trading and timing, I know its bit risky to trade before 9:30 but I traded before that time and paid the price.
+	--Second blunder which I made today was going against the trend, I saw that Tata steel open gap down by 2% but I placed the buy order with a big position size.
+	---Another blunder which I made today was trying to recover my losses and in that process lost more money.
+
+--Thing which I need to follow
+	--Follow the trend anyhow.
+	--Do not take any trade before 9:30 and if possible 9:45.
+	--Take only one trade per day for now, no matter how and what. 
+	--Do not repeat the same mistake again and again. 
+
+--What did you right today?
+	-- The right thing which I did today was placed both the order with stop loss, that all. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
