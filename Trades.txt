@@ -85,7 +85,7 @@ Loss - 27
 --What mistake you made today?
 	--Traded without watching the Nifty Metal
 =============================================================
-Date - 4th July, 2019 (Monday)
+Date - 4th July, 2019 (Thursday)
 Trade taken - Tata  (100 Shares) B
 In time - 09:27:51 - 500.8
 Out time - 09:46:24 - 498.5
@@ -113,6 +113,39 @@ Total loss - 430
 
 --What did you right today?
 	-- The right thing which I did today was placed both the order with stop loss, that all. 
+================================================================
+Date - 5th July, 2019 (Friday)
+Trade taken - LIC Housing Finance  (50 Shares) B
+In time - 13:52:57 - 579.30
+Out time - 13:58:21 - 577.00
+
+Loss - 115
+
+--What mistake you made today?
+	--Forced my self into the trade. 
+
+--What did you right today?
+The only right thing which I did right was placing the order with stop loss. 
+================================================================
+Date - 7/7/2019
+Time - 11:25
+Hi Trade Journal,
+From tomrrow(8/7/2019) I'll and try to trade using a new strategy, i.e. simple moving average crossover strategy using 5 minutes chart. I know this strategy works well in a clear up or down trend so before placing any order I will try to analyze the trend by looking into its daily, hourly and fifteen minutes chart. 
+
+As I'm starting a new thing so its better to start with small position sizing. If I can see there is a clear up or down trend then I will trade with 45 to 55 shares or other wise 35 shares.  
+
+Things to remember before placing orders:
+ --Do not place any order before 9:30.
+ --Place your orders with tight stop losses.
+ --Trade only once every day no matter what, it will save a lot of money in long run. 
+ --Life will not end if you loose one day because there is always tomorrow in trading.
+ --Be disciplined
+ --Always try to win 2 ticks for every 1 tick of loss.
+
+
+ I hope I will to better in coming days with this new strategy if I remain disciplined and with risk management.
+ Your risk reward ratio should be 2:1 if it is not then don't trade. 
+
 
 
 
