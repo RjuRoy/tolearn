@@ -150,6 +150,29 @@ C = 495.50
 
 on 15 minutes chart if it trades below 497 then it will slide further, don't place any buy order untill it is crossing 10day EMA.
 Dont place any order before 9:45
+---------------------------------------------------------------------------------------------------
+8th July, 2019
+Tata Steel 
+------------
+Pr. Close - 495.30
+O = 496.50
+H = 498.50
+***L = 475.30
+C = 478.35
+
+Don't Place any short order until it is above ***475.30
+
+LIC Housing Finance Limited
+---------------------------
+Pr. Close - 568.75
+O = 569.10
+H = 587.00 (52week high)
+L = 564.05
+C = 566.60
+
+Dont't Place any short order until it is above 564 and don't place any buy order until it is not breaking 569.
+
+
 
 
 
