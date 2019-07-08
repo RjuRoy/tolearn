@@ -171,6 +171,28 @@ L = 564.05
 C = 566.60
 
 Dont't Place any short order until it is above 564 and don't place any buy order until it is not breaking 569.
+===============================================================================================================
+
+9th July, 2019
+Tata Steel 
+------------
+Pr. Close - 478.35
+O = 475.00
+H = 479.50
+L = 465.20 --> Don't place any short order until the scrip is at this or at above this level
+C = 468.05
+
+LIC Housing Finance 
+------------
+Pr. Close - 566.60
+O = 565.50
+H = 568.70
+L = 544.05
+C = 550.55
+Don't place any short order until it is above 547. If it stays above 200 day moving average then u may consider this scrip to buy on intraday basis. 
+
+
+
 
 
 

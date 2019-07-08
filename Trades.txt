@@ -145,6 +145,30 @@ Things to remember before placing orders:
 
  I hope I will to better in coming days with this new strategy if I remain disciplined and with risk management.
  Your risk reward ratio should be 2:1 if it is not then don't trade. 
+ ==================================================================
+ Date - 08/07/2019
+Trade taken - Lic Housing Finance  (50 Shares) B
+In time - 10:04:07 - 564.8
+Out time - 10:25:45 - 563.6
+Loss - 60
+
+Trade taken - Lic Housing Finance  (50 Shares) S
+In time - 11:52:56 - 566.285
+Out time - 12:21:08 - 561.8
+
+Profit Before adjusted loss - 224.25
+Profit after adjusted loss - 164.25
+
+
+--What mistake you made today?
+	--Even after knowing that the scrip was in down trend I placed purchase order.(during my first trade)
+
+--What did you right today?
+	--For the first trade, didn't waited for the stop loss to hit as anyway it was going to hit the stop loss so I came out of that trade.
+	--For both the trade used stop losses.
+	
+	
+
 
 
 
