@@ -166,6 +166,29 @@ Profit after adjusted loss - 164.25
 --What did you right today?
 	--For the first trade, didn't waited for the stop loss to hit as anyway it was going to hit the stop loss so I came out of that trade.
 	--For both the trade used stop losses.
+=========================================================================================
+Date - 09/07/2019
+Trade taken - Lic Housing Finance  (35 Shares) S
+In time - 09:55:42 - 557.15
+Out time - 10:25:45 - 559.3
+Loss - 75
+
+Trade taken - Lic Housing Finance  (50 Shares) B
+In time - 12:00:46 - 564
+Out time - 15:05:14 - 567.05
+Profit after adjusting looses - 77.25
+
+--What mistake you made today?
+	--Gone against the trend.
+
+--How you can improve?
+	--Somehow I've learned to control the losses, now I've to learn how not to get out of the profitable trades early.
+
+
+
+
+
+
 	
 	
 

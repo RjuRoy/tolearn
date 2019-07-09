@@ -191,6 +191,37 @@ L = 544.05
 C = 550.55
 Don't place any short order until it is above 547. If it stays above 200 day moving average then u may consider this scrip to buy on intraday basis. 
 
+===================================================
+10th July, 2019
+LIC Housing Finance - Bullish
+------------
+Pr. Close - 550.55
+O = 550.00
+H = 577.00
+L = 546.80
+C = 571.70
+
+--It may try to touch its previous high which is 588 levels.
+On hourly chart it is about to form a double top at 582 levels, so trade carefully at that level.
+--Do not place any short order in a hurry.
+----------------------------------
+Tata Steel Limited
+===================
+Pr. Close - 468.05
+O = 469.00
+H = 472.00
+L = 462.55
+C = 468.45
+
+--If it is able to hold above 462 levels it may go up and try to touch its 20 days moving average which is palced at 475.
+--Do not place any short order in a hurry.
+
+
+
+
+
+
+
 
 
 
