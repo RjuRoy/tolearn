@@ -193,7 +193,7 @@ Don't place any short order until it is above 547. If it stays above 200 day mov
 
 ===================================================
 10th July, 2019
-LIC Housing Finance - Bullish
+LIC Housing Finance - Bullish 
 ------------
 Pr. Close - 550.55
 O = 550.00
@@ -215,6 +215,26 @@ C = 468.45
 
 --If it is able to hold above 462 levels it may go up and try to touch its 20 days moving average which is palced at 475.
 --Do not place any short order in a hurry.
+
+==============================================================
+10th July, 2019
+LIC Housing Finance - Bearish
+Pr. Close - 571.70
+O = 573.15
+H = 574.15
+L = 537.00
+C = 541.45
+
+Do not place any short order until it is above 537.00 (On hourly chart basis)
+----------------------------------------------------
+Tata Steel - Bearish
+Pr. Close - 468.45
+O = 469.50
+H = 474.35
+L = 448.05
+C = 454.80
+
+Do not place any short order until it is above 448 (on hourly chart basis) and don't even think about placing buy order until it is not moving above 560
 
 
 

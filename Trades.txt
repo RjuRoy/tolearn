@@ -184,6 +184,22 @@ Profit after adjusting looses - 77.25
 --How you can improve?
 	--Somehow I've learned to control the losses, now I've to learn how not to get out of the profitable trades early.
 
+=================================================================================
+Date - 10/07/2019
+Trade taken - Lic Housing Finance  (30 Shares) S
+In time - 10:19:29 - 563.9
+Out time - 10:30:10 - 562.2
+Profit - 49.50
+
+--What mistake you made today?
+	--Exited the trade way to early.
+
+--How you can improve?
+	--Somehow I've learned to control the losses, now I've to learn how not to get out of the profitable trades early.
+
+
+
+
 
 
 
