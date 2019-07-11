@@ -236,6 +236,32 @@ C = 454.80
 
 Do not place any short order until it is above 448 (on hourly chart basis) and don't even think about placing buy order until it is not moving above 560
 
+============================================================
+11th July, 2019
+LIC Housing Finance - Bearish
+Pr. Close - 541.45
+O = 548.00
+H = 555.95
+L = 532.60
+C = 539.30
+
+Do not place any buy order until it is above 532.
+On hourly chart the price is below 200, 20, 10 day EMAs so the scrip is in bearish phase. 
+
+If the scrip do not below 535 then it will try to touch 545 and 550 levels.
+--------------------------------------------
+
+Tata Steel - Bearish
+Pr. Close - 454.80
+O = 461.3
+H = 466.50
+L = 453.70
+C = 462.00
+
+
+If it able to hold above 458 in first hour then it may move up and try to touch 466 levels
+
+
 
 
 
