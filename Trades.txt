@@ -41,7 +41,7 @@ Profit - 117
 	--always follow this rule don't place order before 9:30
 ------------------------------------------------------------
 ------------------------------------------------------------
-Date - 2nd July, 2019 (Monday)
+Date - 2nd July, 2019 (Tudesday)
 Trade taken - LIC Housing finance (20 Shares) B
 In time - 10:15:23 - 567.3
 Out time - 10:39:32 - 566.05
@@ -58,7 +58,7 @@ Today I traded with a very thin position size b'se when I was trading, market wa
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
-Date - 3rd July, 2019 (Monday)
+Date - 3rd July, 2019 (Wednesday)
 Trade taken - LIC Housing finance (45 Shares) B
 In time - 09:32:07 - 568.4
 Out time - 09:39:39 - 570.4
@@ -146,7 +146,7 @@ Things to remember before placing orders:
  I hope I will to better in coming days with this new strategy if I remain disciplined and with risk management.
  Your risk reward ratio should be 2:1 if it is not then don't trade. 
  ==================================================================
- Date - 08/07/2019
+ Date - 8th July 2019
 Trade taken - Lic Housing Finance  (50 Shares) B
 In time - 10:04:07 - 564.8
 Out time - 10:25:45 - 563.6
@@ -167,7 +167,7 @@ Profit after adjusted loss - 164.25
 	--For the first trade, didn't waited for the stop loss to hit as anyway it was going to hit the stop loss so I came out of that trade.
 	--For both the trade used stop losses.
 =========================================================================================
-Date - 09/07/2019
+Date - 9th July 2019
 Trade taken - Lic Housing Finance  (35 Shares) S
 In time - 09:55:42 - 557.15
 Out time - 10:25:45 - 559.3
@@ -185,7 +185,7 @@ Profit after adjusting looses - 77.25
 	--Somehow I've learned to control the losses, now I've to learn how not to get out of the profitable trades early.
 
 =================================================================================
-Date - 10/07/2019
+Date - 10th July 2019
 Trade taken - Lic Housing Finance  (30 Shares) S
 In time - 10:19:29 - 563.9
 Out time - 10:30:10 - 562.2
@@ -199,7 +199,7 @@ Profit - 49.50
 
 ==========================================================================================================
 
-Date - 11/07/2019
+Date - 11th July 2019
 I've taken 3 trades today:
 
 Trade taken - Lic Housing Finance  (30 Shares) S
@@ -215,6 +215,43 @@ In time - 10:36:46 - 550.2
 Out time - 12:12:11 - 555.078
 
 Profit after adjusting losses - 274.05
+
+=======================================================================
+Date - 12th July 2019
+Trade taken - Tata steel  (30 Shares) B
+In time - 09:38:04 - 464.10
+Out time - 09:49:12 - 464.55
+
+Trade taken - Infy  (30 Shares) B
+In time - 10:28:39 - 723.20
+Out time - 10:33:53 - 724.15
+
+Trade taken - LIC Housing Finance  (30 Shares) S
+In time - 10:57:42 - 538.85
+Out time - 11:05:54 - 538.35
+
+Trade taken - LIC Housing Finance  (50 Shares) B
+In time - 11:52:56 - 541.30
+Out time - 12:18:09 - 538.50
+
+Loss after adjusting pr0fits - 83
+
+	--Mistakes which I've made today
+		--Taken too many trades blindlessly 
+		--Even after seeing a shooting star candle I took a buy 
+		  decision(hourly chart)
+		--Impatience, during the tata steel trade I didn't wait for the stop loss to hit, I just got out of the trade
+
+
+
+
+
+
+
+
+
+
+
 
 
 
