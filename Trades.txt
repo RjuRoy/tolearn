@@ -242,6 +242,27 @@ Loss after adjusting pr0fits - 83
 		  decision(hourly chart)
 		--Impatience, during the tata steel trade I didn't wait for the stop loss to hit, I just got out of the trade
 
+=====================================================================================================================
+Date - 15th July 2019
+Trade taken - LICHSGFIN  (50 Shares) B
+In time - 10:15:40 - 537.9
+Out time - 10:28:53 - 538.9
+Profit - 50
+--Placed the buy order b'se 10EMA was crossing 20EMA
+------------------------------------------
+Trade taken - Tata teel  (30 Shares) B
+In time - 13:06:52 - 467.5
+Out time - 13:53:30 - 468.2017
+Profit - 21.05
+--Placed the buy order b'se 10EMA was crossing 20EMA
+
+Total Profit - 71.05
+
+
+
+
+
+
 
 
 
