@@ -257,6 +257,33 @@ Profit - 21.05
 --Placed the buy order b'se 10EMA was crossing 20EMA
 
 Total Profit - 71.05
+===========================================================================
+Date - 16th July 2019
+Trade taken - Tata teel  (30 Shares) B
+In time - 09:38:08 - 474.9
+Out time - 09:53:42 - 473.1
+Loss - 54
+-----------------------
+Trade taken - LIC Housing Finance  (50 Shares) B
+In time - 10:00:42 - 537.85
+Out time - 11:04:58 - 541.5
+Profit - 178.30
+
+Why I've taken the trade?
+--On hourly chart an inverted shooting star formation 
+--the gap between 20 and 10 day EMA was narrowing down (hourly chart)
+--on five minute time frame 10day EMA was above 20day EMA
+
+Profit after loss adjustment - 124.30
+
+What you did right today?
+--You were being patience
+--For both the trade you have placed stop loss order 
+
+--How can you improve more?
+--You are learning how to cut your losses fast, now you have to learn how you have to be in a profitable trade 
+--One more thing which you have to do before placing any order is that you have to check the hourly chart
+
 
 
 

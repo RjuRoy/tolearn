@@ -314,6 +314,28 @@ H = 478.25
 L = 463.35
 C = 468.30
 On hourly chart if it holds above 466 then it will try to touch 472 and if it crosses 472 then it will try to touch 477
+=======================================================
+For 17th July 2019
+Tata Steel
+---------------
+Pr. Close - 468.30
+O = 465.10
+H = 478.60
+L = 464.10
+C = 476.70
+On hourly chart if it able to hold above 471 level then it will try to cross 479 level and will will try to touch 482 level which is the 20day EMA on daily chart
+-------------------------
+
+Lic Housing Finance
+--------------------
+Pr. Close - 538.30
+O = 538.15
+H = 560.00
+L = 531.80
+C = 555.65
+
+On hourly chart if it able to hold above 550 level then it will try to move up and will try to touch 565 level
+
 
 
 
