@@ -283,6 +283,28 @@ What you did right today?
 --How can you improve more?
 --You are learning how to cut your losses fast, now you have to learn how you have to be in a profitable trade 
 --One more thing which you have to do before placing any order is that you have to check the hourly chart
+===================================================================
+17th July 2019
+Trade taken - LIC Housing Finance  (30 Shares) B
+In time - 10:15:35 - 552.4
+Out time - 10:37:10 - 547.90
+Loss - 135
+
+Trade taken - Tata Steel  (50 Shares) B
+In time - 11:08:56 - 475.8
+Out time - 11:10:07 - 473.85
+Loss - 97.50
+
+Total Loss - 232.50
+
+--Mistakes which I made today
+--I've purchased an scrip which was falling, I did not wait for it to find a base from where it can move up(Lic Housing finance)
+--I've taken an impluse trading which was out of my plan (tata steel)
+
+--How can I improve more?
+--Stick with your plans
+--Do not take any trade to cover up your previous losses
+--If you are taking your second trade, trade it b'se there is an oppertunity and not you just want to trade
 
 
 

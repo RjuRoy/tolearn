@@ -336,9 +336,28 @@ C = 555.65
 
 On hourly chart if it able to hold above 550 level then it will try to move up and will try to touch 565 level
 
+=====================================================
+For 18th July 2019
+Lic Housing Finance
+--------------------
+Pr. Close - 555.65
+O = 552.90
+H = 556.50
+L = 546.00
+C = 550.10
 
+On hourly chart if it able to hold above 546 and 550 level then it can move up to 560 level
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tata Steel
+--------------------
+Pr. Close - 476.70
+O = 476.00
+H = 479.80
+L = 468.50
+C = 475.70
 
+For further upmove it has to cross its 100day EMA which is at 478 levels, if it do not able to move above 478 then don't buy it .
 
 
 
