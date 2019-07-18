@@ -53,7 +53,7 @@ Today I traded with a very thin position size b'se when I was trading, market wa
 	--At the time of placing order my stop loss was 3 ticks away from my purchasing price but soon I realized that my trade may go against me so I modified my stop loss to 1 tick away.
 
 --How you can improve more?
-	--Don't ever thing that you know everything, always be a learner.
+	--Don't ever think that you know everything, always be a learner.
 	--Try to learn something everyday.
 
 ---------------------------------------------------------------
@@ -305,6 +305,29 @@ Total Loss - 232.50
 --Stick with your plans
 --Do not take any trade to cover up your previous losses
 --If you are taking your second trade, trade it b'se there is an oppertunity and not you just want to trade
+====================================================
+18th July 2019
+Trade taken - Lic Housing Finance  (100 Shares) S
+In time - 10:04:45 - 543.65
+Out time - 10:53:48 - 543.35
+
+Trade taken - Lic Housing Finance  (100 Shares) S
+In time - 13:03:18 - 533.5
+Out time - 13:28:58 - 535.5
+
+Net Loss - 170
+
+	--Mistakes Which I've made today?
+	--It's not actually a mistake but lets say an war with my innerself, I know that after placing an order I don't have to do anything except waiting for the stop loss to hit or profit numbers to hit.
+
+	But I'm not able to do so right now, to win my trades I've to win myslef and have to be ready to take losses
+
+	--How you can improve?
+	--To improve I've to win my innerself. I've to be ready to take losses
+
+
+
+
 
 
 

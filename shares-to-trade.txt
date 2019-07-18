@@ -359,6 +359,34 @@ C = 475.70
 
 For further upmove it has to cross its 100day EMA which is at 478 levels, if it do not able to move above 478 then don't buy it .
 
+================================================================
+For 19th July 2019
+Lic Housing Finance - Bearish
+--------------------
+Pr. Close - 550.10
+O = 550.00
+H = 550.00
+L = 532.00
+C = 533.95
+
+If it not able to move above 536(weekly 200EMA) then it may fall towards 524.
+Do not short till it is above 531
+----------------------------------------------------------
+Tata Steel - Bearish
+--------------------
+Pr. Close - 475.70
+O = 473.00
+H = 475.35
+L = 463.85
+C = 466.60
+
+Do not short till it is above 462
+If it able to hold above 462 on hourly chart it my move up and try to touch 472
+
+
+
+
+
 
 
 
