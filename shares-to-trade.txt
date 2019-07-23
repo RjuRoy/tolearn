@@ -424,6 +424,26 @@ H = 523.28
 L = 507.29
 C = 512.40
 If it closes below 510 on houly chart then it may fall further and try take support on 507 levels and if it falls below this levels also then there will be more pain for this scrip 
+=========================================================
+
+For 24th July 2019
+Pr. Close - 512.40
+O = 512.45
+H = 523.80
+L = 508.25
+C = 520.90
+
+If it remains above 517 levels on hourly chart then it may move up further or if it falls below 517 then it may take support on 515-516 levels 
+--------------------------------------
+
+Pr. Close - 465.55
+O = 466.2
+H = 467.9
+L = 456.75
+C = 460
+
+If it remains above 461 levels on hourly chart it can touch 463 levels. For any strong upmove it has to move above 462 (20DEMA), breach of 455 levels will increase the selling pressure
+
 
 
 

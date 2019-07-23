@@ -345,6 +345,33 @@ Net Profit - 108
 	--Don't Over trade
 	--Do not take more then 2 trades a day
 	--Do not take any implusive trade
+=========================================================================================
+23rd July 2019
+LIC Housing Finance (30 Shares) s
+In time - 10:31:04 - 509.1
+Out time - 11:46:54 - 512.5
+Loss - 102
+
+Tata Steel (100 Shares) B
+In time - 12:23:39 - 458.9
+Out time - 13:13:51 - 460.2
+Profit - 130
+
+Profit after adjusting loss - 28
+
+--How can you improve yourself?
+--I've to work on the risk reward ratio, I've not given any importance to that till now
+
+On todays LIC Housing finance trade the risk was around 110 but the reward was only 33, so it was a bad trade taken by me 
+
+
+
+
+
+
+
+
+
 
 
 
