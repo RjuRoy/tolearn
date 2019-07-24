@@ -363,6 +363,34 @@ Profit after adjusting loss - 28
 --I've to work on the risk reward ratio, I've not given any importance to that till now
 
 On todays LIC Housing finance trade the risk was around 110 but the reward was only 33, so it was a bad trade taken by me 
+==========================================================================================================================
+24th July 2019
+LIC Housing Finance (50 Shares) S
+In time - 09:55:50 - 513.2
+Out time - 10:11:31 - 512.40
+
+LIC Housing Finance (20 Shares) S
+In time - 10:16:40 - 511.1475
+Out time - 10:19:17 - 513.65
+
+LIC Housing Finance (100 Shares) S
+In time - 10:34:02 - 514.7495
+Out time - 10:40:12 - 513.10
+
+Profit after adjusting loss - 147.90
+
+--How can you improve yourself?
+--Need to work on my risk reward ratio
+
+--Thing which you are doing right
+--I'm always trading with an stop loss
+
+--How to approach your trades
+--If the stop loss is 2 ticks then go with 100 shares or if the stop loss is 4 ticks then go with 50 shares. Don't loose more then 200 in a single day 
+
+
+
+
 
 
 

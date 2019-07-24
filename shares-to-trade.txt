@@ -427,6 +427,8 @@ If it closes below 510 on houly chart then it may fall further and try take supp
 =========================================================
 
 For 24th July 2019
+Lic Housing Finance
+---------------------
 Pr. Close - 512.40
 O = 512.45
 H = 523.80
@@ -435,7 +437,8 @@ C = 520.90
 
 If it remains above 517 levels on hourly chart then it may move up further or if it falls below 517 then it may take support on 515-516 levels 
 --------------------------------------
-
+Tata Steel
+-----------------
 Pr. Close - 465.55
 O = 466.2
 H = 467.9
@@ -443,7 +446,31 @@ L = 456.75
 C = 460
 
 If it remains above 461 levels on hourly chart it can touch 463 levels. For any strong upmove it has to move above 462 (20DEMA), breach of 455 levels will increase the selling pressure
+==================================================
+For 25th July 2019
+------------------
+Lic Housing Finance
+Pr. Close - 520.90
+O = 520.6
+H = 523.4
+L = 510.45
+C = 519.75
 
+On hourly chart if it closes above 513 levels then it may move up and try to touch 523 levels.
+
+On hourly chart it has created a double top so be cautious.
+
+If it stays above 521 levels on hourly chart then its a buy call with a stop loss of 514
+------------------------------------
+Tata Steel
+-----------------
+Pr. Close - 460
+O = 460.95
+H = 463
+L = 443.1
+C = 446
+
+If it can sustain above 443 levels on houlry chart then it will try to touch 450. You should short it on fall below 443 levels
 
 
 
