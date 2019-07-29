@@ -387,6 +387,56 @@ Profit after adjusting loss - 147.90
 
 --How to approach your trades
 --If the stop loss is 2 ticks then go with 100 shares or if the stop loss is 4 ticks then go with 50 shares. Don't loose more then 200 in a single day 
+=============================================================
+25th July 2019
+---------------
+LIC Housing Finance (50 Shares) B
+In time - 09:43:31 - 524.5
+Out time - 09:48:09 - 522
+Loss - 125
+
+LIC Housing Finance (50 Shares) B
+In time - 10:50:55 - 525.55
+Out time - 11:05:29 - 522.45
+Loss - 155
+
+--Need to work on:
+--Levels of stop losses
+--Risk reward ratio
+============================================================================
+26th July 2019
+Tata Steel (50 Shares) B
+In time - 10:13:04 - 441.85
+Out time - 10:19:22 - 442.10
+------------------------------
+LIC Housing Finance (100 Shares) B
+In time - 10:41:45 - 520.40
+Out time - 11:59:35 - 524.50
+
+Profit - 419.60
+
+--How you can improve
+--Once you are in a trade wait for the stop loss to hit or target to hit
+--never ever think that you know everything, learn something everyday 
+--be grounded 
+====================================================================
+LIC Housing Finance (50 Shares) S
+In time - 09:32:52 - 519.3
+Out time - 09:39:08 - 516.3
+Stop was placed at 522, so the maximum loss was 135, it simply means the trade was not that ok 
+Profit - 150
+
+--How you improve more?
+--learn, learn, learn and learn
+--be stupid, don't ever think you know everything 
+--always remember to place your stops 
+
+
+
+
+
+
+
 
 
 

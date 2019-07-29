@@ -471,6 +471,77 @@ L = 443.1
 C = 446
 
 If it can sustain above 443 levels on houlry chart then it will try to touch 450. You should short it on fall below 443 levels
+============================================
+For 26th July 2019
+Lic Housing Finance
+Pr. Close - 519.75
+O = 520
+H = 527
+L = 519.2
+C = 526
+Do not place any buy order until it is not breaking 528 levels
+---------------------------------------------------
+
+Tata Steel
+Pr. Close - 446
+O = 448
+H = 451.95
+L = 438.3
+C = 439
+
+Chances are high that it will fall tomorrow as well.
+Buying oppertunity is placed above 442 levels
+Selling oppertunity comes below 436 levels 
+
+============================================================
+For 29th July 2019
+Lic Housing Finance
+Pr. Close - 525.15
+O = 525.00
+H = 528.90
+L = 518.45
+C = 523.40
+On hourly chart if it falls below 518 then selling pressure may increase, for any major upmove it has close above 529 on hourly basis
+Do not short this script at the support levels b'se this script is jumping from its support levels 
+-----------------------------------------
+
+Tata Steel
+Pr. Close - 440.35
+O = 439.00
+H = 448.20
+L = 435.65
+C = 445.50
+
+On hourly chart if it closes below 444 then selling pressure may increase, for any major upmove it has to close above 448 on hourly basis, if it closes above 448 on hourly basis then it may touch 453    
+================================================== 
+For 30th July 2019
+Lic Housing Finance
+Pr. Close - 525.15
+O = 522.40
+H = 525.00
+L = 512.50
+C = 515.90
+
+On hourly chart, closing below 512 levels will increase the selling pressure, for any major upmove it has to close above 515 on hourly basis 
+
+Short if it goes below 512 levels(hourly chart closing)
+Go long if closes above 517 (hourly chart closing)
+----------------------------------------------------
+
+Lic Housing Finance
+Pr. Close - 445.50
+O = 445.55
+H = 445.90
+L = 431.00
+C = 433.45
+
+If it able to move above 437 on hourly closing basis then there is a hope of an upmove and if it slips below 431 levels then there is more pain for this stock
+
+Short below 431 levels
+
+
+
+
 
 
 
