@@ -430,6 +430,77 @@ Profit - 150
 --learn, learn, learn and learn
 --be stupid, don't ever think you know everything 
 --always remember to place your stops 
+==========================================================
+30th July 2019
+Tata Steel (50 Shares) B
+In time - 09:35:05 - 440.2
+Out time - 09:49:16 - 438
+Loss - 220
+
+LIC Housing Finance (100 Shares) B
+In time - 10:25:30 - 523.3845
+Out time - 11:01:00 - 524.1
+Profit - 70
+
+Loss after adjusting profit - 150
+
+Mistake I made in the tata steel trade:
+Even knowing that this script is in downtrend I punched a buy order
+===================================================================
+
+31st July 2019
+LIC Housing Finance (50 Shares) B
+In time - 09:47:05 - 511.9
+Out time - 09:48:51 - 509
+
+Tata Steel (100 Shares) S
+In time - 10:12:27 - 422.05
+Out time - 10:27:15 - 420.45
+
+LIC Housing Finance (100 Shares) S
+In time - 10:33:07 - 503
+Out time - 10:45:24 - 506.25
+
+Loss for the day - 310
+
+--Some thing which you have to keep in your mind:
+--If your loss is already 150 for the day then don't enter into a position with large number of shares.
+--Before entering into a trade calculate your stop loss properly
+--Don't punch sell order where you can see a formation "W" pattern
+--Do not take more then 2 trades in a single day
+(take the second trade only if the loss is less then 100)
+=========================================================================
+
+1st August 2019
+LIC Housing Finance (50 Shares) S
+In time - 10:12:27 - 514.638
+Out time - 10:21:07 - 513.072
+Profit - 78.30
+
+Things which you have to do for volatile market:
+--After you are in the trade don't wait for too long to book your profit or losses. 
+--You should look for small gains during volatile market
+
+---------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

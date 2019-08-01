@@ -528,7 +528,7 @@ Short if it goes below 512 levels(hourly chart closing)
 Go long if closes above 517 (hourly chart closing)
 ----------------------------------------------------
 
-Lic Housing Finance
+Tata Steel
 Pr. Close - 445.50
 O = 445.55
 H = 445.90
@@ -538,6 +538,88 @@ C = 433.45
 If it able to move above 437 on hourly closing basis then there is a hope of an upmove and if it slips below 431 levels then there is more pain for this stock
 
 Short below 431 levels
+=============================================
+For 31st July 2019
+Lic Housing Finance - somehow
+Pr. Close - 515.90
+O = 514.80
+H = 526.20
+L = 511.00
+C = 513.95
+
+On hourly chart it is looking very weak and it can fall if it breaks below 512, if it goes below 512 then it may take support at 506-507 levels
+----------------------------------------
+Tata Steel - bearish
+Pr. Close - 433.45
+O = 434.90
+H = 441.90
+L = 406.20
+C = 415.05
+==================================================
+For 1st August 2019
+Lic Housing Finance - neutral
+Pr. Close - 513.95
+O = 512.00
+H = 521.55
+L = 501.50
+C = 518.40
+
+The pattern which it is showing for last few sessions is that - first it goes below the previous days low and it try to touch the highs of current of previous days high 
+
+For tomorrow if it closes below 512 (hourly basis) then selling pressure may increase, and if it goes past above 521 levels we can see some sort of rally, in case of rally it may try to touch 530 - 531 levels 
+
+Don't short it near its days low
+
+----------------------------------------
+Tata Steel 
+Pr. Close - 415.05
+O = 413.00
+H = 433.60
+L = 409.50
+C = 432.05
+
+Tomorrow it may try to touch 439 to 443 levels.
+If it starts to fall it may take support on its 429 levels to 427 level
+------------------------------
+
+Try to trade on support-resistence level and/or
+Moving average crossovers basis.
+====================================================================
+
+For 2nd August 2019
+
+LIC Housing Finance 
+-------------------
+Pr. Close - 518.40
+O = 516.65
+H = 518.55
+L = 501.20
+C = 508.40
+For any upmove it has to move above 513 levels on hourly basis,
+if it falls below 505 levels then selling pressure will increase
+----------------------------------------------------------------
+
+Tata Steel 
+Pr. Close - 432.05
+O = 427.50
+H = 431.90
+L = 414.80
+C = 420.00
+
+On daily chart it is about to create a "W" pattern so don't short for now and try to buy this stock if it remains above 406 levels
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
