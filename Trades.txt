@@ -483,6 +483,44 @@ Things which you have to do for volatile market:
 
 ---------------------------------
 
+2nd August 2019
+LIC Housing Finance (15 Shares) S - In a hurry I just placed this order
+In time - 09:36:29 - 496.75
+Out time - 09:38:08 - 496.95
+
+LIC Housing Finance (100 Shares) B
+In time - 10:15:31 - 487.95
+Out time - 10:17:568 - 488.55
+
+
+Tata Steel (100 Shares) B
+In time - 10:27:34 - 407.70
+Out time - 10:37:05 - 405.72
+
+
+LIC Housing Finance (75 Shares) B
+In time - 11:09:24 - 498.30
+Out time - 11:41:34 - 502.00
+
+
+--Things to remember 
+--If you you have placed an order with a stop loss don't do anything by yourself, let the market do the things, either it will hit the stop loss or it will lead you to the profits 
+
+--Tomorrow(5/8/19) onwards instead of 50 I'll trade 40 shares and in place of 100, I'll trade 75 share, by doing so I'll able to restrict my losses at around 200 in case trades goes against me including brokerage and taxes 
+
+--Goals for the next week 
+-----------------------------
+--Do not loose more then 200/day
+--If you are in loss of 200 in the first trade do not take any furter trade
+--Amount to earn next week - 500
+==============================================================
+
+
+
+
+
+
+
 
 
 
