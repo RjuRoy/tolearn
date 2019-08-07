@@ -644,7 +644,7 @@ It may move up if it stays above 494
 Don't short on lower levels
 
 
-LIC Housing Finance 
+Tata Steel
 -------------------
 Pr. Close - 409.10
 O = 403.95
@@ -653,6 +653,41 @@ L = 389.70
 C = 389.70
 
 Don't short on lower levels
+===========================================
+For 7th August 2019
+
+LIC Housing Finance
+-------------------
+Pr. Close - 495.85
+O = 490.55
+H = 495.60
+L = 482.00
+C = 484.15
+
+This scrip is under bear control now. It is now below 200DMA on daily chart. There is a good chance that it may fall further.
+
+Try to short this scrip on higher level on visible weekness.
+--------------------------------
+
+Pr. Close - 399.25
+O = 393.65
+H = 408.00
+L = 393.65
+C = 401.60
+
+If it can stay above 393 then it may move up or otherwise it will continue its southward journey 
+
+You may short this scrip on higher levels on visible weekness but don't short this one on lower levels
+
+-----------------------------
+
+--Goal for the day
+--Do not take more then 2 trades
+--Try to earn ateast 100
+
+
+
+
 
 
 
