@@ -547,6 +547,28 @@ Adjusted profit after loss - 170
 --Have patience
 --Try to set profit targets
 --Always for profits and losses  
+=====================================
+
+6th August 
+----------------------
+LIC Housing Finance (75 Shares) S
+In time - 10:29:10 - 494.40
+Out time - 10:32:28 - 496
+
+LIC Housing Finance (75 Shares) S
+In time - 10:33:49 - 494.5067
+Out time - 11:03:15 - 496.45
+
+Loss for the day - 265.75
+
+--Reason for the loss:
+--Placing sell order even even after priced moved above 200DMA on 5 minute chart and doing the doing the same mistake for the second time in a row
+
+
+
+
+
+
 
 
 

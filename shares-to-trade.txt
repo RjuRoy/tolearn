@@ -682,10 +682,39 @@ You may short this scrip on higher levels on visible weekness but don't short th
 -----------------------------
 
 --Goal for the day
+--Do not take more then 2 trades - Passed 
+--Try to earn ateast 100 - Failed
+
+==========================================================
+
+LIC Housing Finance
+-------------------
+Pr. Close - 484.15
+O = 487.00
+H = 509.90
+L = 483.50
+C = 493.10
+
+If it stays below 493 then it may move down to touch 482 levels.
+---------------------------------------------------
+
+Tata Steel
+-------------------
+Pr. Close - 401.60
+O = 395.00
+H = 396.50
+L = 375.85
+C = 381.90
+
+Try to short on higher level
+----------------------------------
+
+
+--Goal for the day
 --Do not take more then 2 trades
 --Try to earn ateast 100
-
-
+--Trade ony if there is visible resistence/suppor, ir
+--Trade only where ther is a crossover of 20 and 10DMA or 10 and 20 DMA
 
 
 
